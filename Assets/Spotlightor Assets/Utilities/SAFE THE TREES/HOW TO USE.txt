@@ -1,0 +1,2 @@
+为保障载入植被Asset Bundle的时候，不会出现粉色树叶。
+新建一个空物体，添加Mesh Renderer，在Materials里添加这些植被材质即可。
